@@ -64,3 +64,5 @@ with col2:
 with col1:
     df3['age'].hist(bins=10)
     st.pyplot(fig)
+
+#123
